@@ -15,6 +15,7 @@
 		<module>irg-asa-pom-osgi</module>
 		<module>irg-asa-common</module>
 		<module>irg-asa-ui-businesslogic</module>
+		<module>irg-asa-wcs</module>
 		<module>irg-asa-ui</module>
 	</modules>
 

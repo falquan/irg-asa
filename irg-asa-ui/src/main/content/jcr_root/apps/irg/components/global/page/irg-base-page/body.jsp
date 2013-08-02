@@ -23,4 +23,7 @@
     <h1>hello</h1>
 	<cq:include path="welcome" resourceType="irg/components/global/content/welcome"/>
     <cq:include path="content" script="greg.jsp"/>
+    
+	<div class="content-wrap"><cq:include path="content" resourceType="foundation/components/parsys"/></div>    
+    
 </body>
