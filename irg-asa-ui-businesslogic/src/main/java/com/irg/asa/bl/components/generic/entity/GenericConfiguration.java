@@ -12,6 +12,8 @@ import com.day.cq.wcm.api.Page;
 import com.day.cq.wcm.api.PageManager;
 import com.day.cq.wcm.api.designer.Style;
 
+// trigger a build
+
 /**
  * Generic configuration class for the UI components.
  */
